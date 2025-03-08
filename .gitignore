@@ -136,3 +136,6 @@ saved_models/
 
 archive/
 data/
+
+# Large files
+*.npy
