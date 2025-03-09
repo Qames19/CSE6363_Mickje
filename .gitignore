@@ -136,3 +136,4 @@ saved_models/
 
 archive/
 data/
+*.npy
